@@ -20,3 +20,5 @@ export interface DamageRelationsType {
     quarter_damage_from?: string[];
     no_damage_from: string[];
 }
+
+export default DamageRelationsType;

@@ -1,6 +1,6 @@
-import colorsType from "../types/types";
+import  { ColorsType }  from "../types/types";
 
-function typeColors (): colorsType {
+function typeColors (): ColorsType {
     return {
         bug: '#A8B820',
         dark: '#705848',
